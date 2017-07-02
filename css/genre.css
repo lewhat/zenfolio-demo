@@ -1,0 +1,245 @@
+        #Genre .primary{
+            background-color: #f58546;
+            color: white;
+            box-shadow: 0 6px 20px 0 rgba(0,0,0,0.09),0 8px 17px 0 rgba(0,0,0,0.08);
+            -webkit-transition: .1s ease-in-out, transform .1s ease-in-out;
+            transition: .1s ease-in-out, transform .1s ease-in-out;
+            margin-top: 5px;
+        } 
+
+        #Genre  .primary:hover{
+            background-color: #FF8900;
+            border: 2px solid white;
+            color: white;
+        }
+        #Genre  .transp-gray{
+            background: rgba(69, 74, 82, 0.81);
+        }
+        #Genre  .icons{
+            width: auto;
+            height: 125px;
+        }
+        #Genre  #_aaa-displaynameRow{
+            display: none;
+        }
+        #Genre  #_aaa-couponRow{
+            display: none;
+        }
+        #Genre  input{
+            border: 2px solid gray;
+            margin: 5px;
+            padding: 10px 20px;
+            border-radius: 3px;
+        }
+        #Genre  .new-primary{
+            background: #80b91a !important;
+            font-weight: 900 !important;
+            font-size: 20px !important;     
+            min-width: 175px !important;
+        }
+        #Genre .lp-section .float FORM .ff, 
+        #Genre .lp-section .float.float3 FORM .ff INPUT,
+        #Genre .lp-section .float.float3 FORM .ff.last INPUT{
+            width: 100%;
+            left: 0;
+            padding: 0px;
+            margin-bottom: 0px;
+        }
+        #Genre .lp-section .float.float3 FORM .ff INPUT,
+        #Genre .lp-section .float.float3 FORM .ff.last INPUT{
+            margin: 10px auto;
+            display: block;
+            box-sizing: border-box;
+            padding: 0px 20px ;
+            width: 100%;
+        }
+        #Genre .lp-section FORM .ff.last INPUT{
+            margin-left: 5px;
+            width: 300px;
+        }
+
+        #Genre .pushbutton{
+            left: 0px !important;
+            top: inherit !important;
+            height: inherit !important;
+            box-sizing: border-box;
+            margin-top: 10px;
+            padding: 15px 30px;
+        }
+        #Genre .pushbutton:hover{
+            background: #fff;
+            color: #f58546;
+        }
+        #Genre .lp-section FORM A.pushbutton{
+            border: 2px solid;
+        }
+        #Genre .button.primary{
+            padding: 15px 30px;
+        }
+        #Genre .left, #Genre  .right{
+            height:100%;
+        }
+        #Genre blockquote{
+            border-left: initial;
+        }
+        #Genre #HpTestimonials .desc{
+            height: initial;
+        }
+        #Genre #signup .whole.layout-6l6r{
+            height: initial;
+        }
+        #Genre #signup {
+            margin-right: 0px;
+            white-space: inherit;
+        }
+        #Genre .carousel-inner img.scale{
+            max-width: 650px;
+        }
+        #Genre .carousel-control.left, #Genre .carousel-control.right{
+            background: initial;
+        }
+        #Genre .carousel-fade .carousel-inner .item {
+            opacity: 0;
+            -webkit-transition-property: opacity;
+            -moz-transition-property: opacity;
+            -o-transition-property: opacity;
+            transition-property: opacity;
+        }
+        #Genre .carousel-fade .carousel-inner .active {
+            opacity: 1;
+        }
+        #Genre .carousel-fade .carousel-inner .active.left,
+        #Genre .carousel-fade .carousel-inner .active.right {
+            left: 0;
+            opacity: 0;
+            z-index: 1;
+        }
+        #Genre .carousel-fade .carousel-inner .next.left,
+        #Genre .carousel-fade .carousel-inner .prev.right {
+            opacity: 1;
+        }
+        #Genre .carousel-fade .carousel-control {
+            z-index: 2;
+        }
+
+        #Genre .mobile-display-only{
+            display: none;
+        }
+        #Genre .desktop-display-only{
+            display: block;
+        }
+
+        #Genre .carousel-control.left, .carousel-control.right, .carousel-indicators{
+            display: none;
+        }
+
+        #Genre .text-shadow{
+            text-shadow: 0px 0px 30px rgba(0,0,0,0.7)
+        }
+        #Genre .lp-section FORM A.pushbutton{
+            width: inherit;
+        }
+        #Genre .perfect-website{
+            text-align: left;
+        }
+        #Genre .perfect-website p{
+            max-width: 400px;
+        }
+
+        #Genre .perfect-website h2{
+            max-width: 550px;
+        }
+        #Genre .lp-section FORM .ff INPUT{
+            padding: 20px 0px 20px 10px
+        }
+        #Genre .lp-section FORM .ff INPUT:focus {
+            box-shadow: 0px 0px 15px rgba(0,0,0,.7);
+        }
+        
+        #Genre .left-quote{
+                position: relative;
+    font-size: 100px;
+    width: 15%;
+    box-sizing: content-box;
+    display: inline-block;
+    float: left;
+    top: 50px
+        }
+        #Genre .right-quote{
+                   position: relative;
+    font-size: 100px;
+    width: 15%;
+    box-sizing: content-box;
+    display: inline-block;
+    float: right;
+    top: 50px;
+    float: right
+        }
+        #Genre .testimonial-item{
+box-sizing: content-box;
+    display: inline-block;
+position: relative;
+   
+    width: 70%;
+        }
+        #Genre .quote{
+            font-size: 18px;
+            line-height: 26px;
+        }
+        #Genre .main.full h2{
+            max-width: 400px;
+            margin: 0 auto;
+            margin-bottom: 0.8em;
+        }
+        #Genre .lp-header{
+            padding: 10px 0px 0px 0px;
+        }
+
+        @media screen and (max-width: 887px){
+            #Genre #signup .whole.layout-6l6r{
+                height: 100%;
+            }
+            #Genre #signup IMG.scale {
+                width: 50%;
+                height: auto;
+            }
+
+            #Genre .lp-section FORM .ff.last INPUT,#Genre .lp-section FORM .ff INPUT{
+                width:70%;
+                margin-left: 0px;
+            }
+            #Genre .mobile-display-only{
+                display: block;
+            }
+            #Genre .desktop-display-only{
+                display: none;
+            }
+            #Genre #HpTestimonials h2.large{
+                margin-bottom: initial;
+            }
+
+            #Genre .carousel-control.left,#Genre .carousel-control.right, #Genre .carousel-indicators{
+                display: none;
+            }
+            #Genre .perfect-website{
+            text-align: center;
+                
+        }
+        #Genre .perfect-website p{
+            margin: 10px auto 25px auto;
+        }
+            #Genre .perfect-website h2{
+            margin: 20px auto;
+        }
+        #Genre p {
+            max-width: 400px;
+            margin: 0 auto;
+        }
+
+        }
+        @media screen and (max-width: 460px){
+            #Genre .lp-section FORM .ff.last INPUT, #Genre .lp-section FORM .ff INPUT{
+                width:100%;
+
+            }
+        }

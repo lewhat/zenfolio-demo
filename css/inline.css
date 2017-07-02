@@ -1,0 +1,97 @@
+
+
+#ZfPlans .full-hero {
+	padding-top: 0px;
+	padding-bottom: 30px;
+	background: url(../img/hero/001.jpg);
+	background-position: 20% 90%;
+	background-repeat: no-repeat;
+	background-size: cover;   
+}
+
+#ZfPlans .lp-logo{
+	height: 50px;
+}
+
+#ZfPlans .text-white{
+	height: 400px; 
+	position: relative;
+}
+
+#ZfPlans .pad {
+	padding: 30px;
+}
+
+
+
+#ZfPlans .icon-down{
+	position: absolute; 
+	bottom: 0px; 
+	left: 0px; 
+	right: 0px; 
+	margin: 0 auto; 
+	animation-duration: 1.3s;
+}
+
+/* ============ End Hero Section =================== */
+
+/* =========== RTB Section  ======================= */
+
+
+
+/* =========== End RTB Section  ======================= */
+
+
+/* =========== Photog Love  ======================= */
+
+#ZfPlans .full-photog{
+	padding-top: 30px; 
+	padding-bottom: 30px; 
+	background-image: url(../img/hero/lg.jpg); 
+	background-position: bottom; 
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
+
+#ZfPlans .center-flex{
+	height: 450px;
+}
+
+#ZfPlans .right{
+	background-color: rgba(255,255,255,.8);
+                  
+}
+#ZfPlans .pad-photog{
+	padding: 30px;
+}
+
+/* =========== End Photog Love  ======================= */
+
+/* =========== Plan section  ======================= */
+
+#ZfPlans .plan-item-h2 {
+	width: 95%;
+	margin: 0 auto;
+}
+
+/* =========== End Plans  ======================= */
+
+
+#freewall{
+	max-height: 750px;
+	overflow: hidden;
+}
+
+#ZfPlans .brick{
+	z-index: 1;
+}
+
+#ZfPlans .main-pop{
+	background: rgba(0,0,0,.5); 
+	z-index: 100;
+}
+
+#ZfPlans .full-footer{
+	background: #454A52;
+	height: 100px;
+}
